@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3D-Печать", "Типография\3D-Печать.csproj", "{8E2E68B3-D4A7-45DA-B57A-EBC6A4CAECA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E2E68B3-D4A7-45DA-B57A-EBC6A4CAECA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E2E68B3-D4A7-45DA-B57A-EBC6A4CAECA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E2E68B3-D4A7-45DA-B57A-EBC6A4CAECA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E2E68B3-D4A7-45DA-B57A-EBC6A4CAECA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0BC6A07-14B1-4438-8FA5-59FC39863496}
+	EndGlobalSection
+EndGlobal
